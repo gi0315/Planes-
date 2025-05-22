@@ -1,17 +1,19 @@
-<<<<<<< HEAD
-# React + Vite
+# WW2 Planes CRUD App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple CRUD (Create, Read, Update, Delete) app built with React and Firebase. It allows you to manage a list of WWII planes.
 
-Currently, two official plugins are available:
+Link to demo https://drive.google.com/file/d/18BS5QTLRY_v3AI92zPztGaV-Ma4TXL28/view?usp=share_link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Planes-
-Planes
->>>>>>> 9828db149c91401b02569c8f8a0d1c6d18c81964
+- Add new planes
+- View all planes
+- Edit plane details
+- Delete planes
+- Real-time updates using Firebase Firestore
+
+## Technologies Used
+
+- React
+- Firebase (Firestore + Hosting)
